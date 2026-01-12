@@ -1,5 +1,4 @@
 - 👋 Hi, I’m chanwoo gwak
-- 👀 I’m interested in Data Analysis & Machine Learning
 
 <!---
 gwakkk/gwakkk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
